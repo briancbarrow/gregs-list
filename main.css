@@ -1,0 +1,36 @@
+html {
+	margin-top: -20px;
+}
+
+body {
+	margin: 0px;
+}
+
+nav {
+	background-color: #eee;
+	display: fixed;
+	height: 60px;
+}
+
+.title {
+	position: absolute;
+	font-size: 25px;
+	margin: 15px 15px 15px 25px;
+}
+
+nav ul {
+	text-align: right;
+	margin-right: 20px;
+}
+
+.nav-link {
+	display: inline-block;
+	position: relative;
+	color: purple;
+	font-size: 25px;
+	margin: 15px 15px 15px 0;
+}
+
+main {
+	border: solid 1px black;
+}
